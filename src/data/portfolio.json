@@ -1,0 +1,147 @@
+{
+  "identity": {
+    "name": "Md. Irshad Rain",
+    "initials": "MR",
+    "tagline": "Cybersecurity Student & Ethical Hacker",
+    "degree": "BSc Cybersecurity",
+    "level": "Level 5 — Year 2",
+    "university": "University of Wolverhampton",
+    "location": "Kathmandu, Nepal",
+    "status": "Open for Internships",
+    "statusActive": true,
+    "bio": [
+      "I'm a second-year Cybersecurity student focused on ethical hacking, network defence, and modern cybersecurity operations. I enjoy understanding how systems work internally, identifying vulnerabilities, and building stronger and more secure infrastructures.",
+      "Currently studying at Herald College Kathmandu under the University of Wolverhampton, while developing practical skills in penetration testing, Linux administration, networking, and cybersecurity through coursework, labs, and hands-on projects."
+    ],
+    "heroHeadline": "Exploring cybersecurity through ethical hacking and network defence.",
+    "heroSub": "Cybersecurity Student · Ethical Hacking · Network Security"
+  },
+
+  "contact": {
+    "email": "rainirshad52@gmail.com",
+    "github": "github.com/irshad-rain",
+    "linkedin": "linkedin.com/in/irshad-rain",
+    "twitter": null
+  },
+
+  "skills": [
+    {
+      "category": "Cybersecurity & Networking",
+      "items": [
+        { "name": "Wireshark", "level": 85 },
+        { "name": "Kali Linux", "level": 80 },
+        { "name": "Nmap", "level": 82 },
+        { "name": "Cisco Packet Tracer", "level": 88 }
+      ]
+    },
+
+    {
+      "category": "Programming",
+      "items": [
+        { "name": "Python", "level": 75 },
+        { "name": "PHP", "level": 80 },
+        { "name": "JavaScript", "level": 65 },
+        { "name": "SQL / MySQL", "level": 75 }
+      ]
+    },
+
+    {
+      "category": "Concepts & Tools",
+      "items": [
+        { "name": "Network Protocols", "level": 88 },
+        { "name": "Cryptography", "level": 72 },
+        { "name": "OSINT", "level": 82 },
+        { "name": "Linux Administration", "level": 80 }
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "id": 1,
+      "title": "Employee Attendance & Leave Management System",
+      "description": "A secure PHP and MySQL web application for managing employees, attendance records, leave requests, approvals, and reporting with authentication and CRUD operations.",
+      "tags": ["PHP", "MySQL", "JavaScript", "Bootstrap"],
+      "github": "#",
+      "live": "#",
+      "featured": true
+    },
+
+    {
+      "id": 2,
+      "title": "Network Security Lab",
+      "description": "Practical cybersecurity lab work using Kali Linux, Wireshark, Nmap, and Cisco Packet Tracer to understand scanning, packet analysis, network defence, and secure configuration.",
+      "tags": ["Kali Linux", "Wireshark", "Nmap", "Networking"],
+      "github": "#",
+      "live": "#",
+      "featured": true
+    },
+
+    {
+      "id": 3,
+      "title": "CI/CD Portfolio Website",
+      "description": "A React portfolio website integrated with GitHub Actions to understand continuous integration, automated build checks, and deployment workflows.",
+      "tags": ["React", "GitHub Actions", "CI/CD", "Vite"],
+      "github": "#",
+      "live": "#",
+      "featured": false
+    },
+
+    {
+      "id": 4,
+      "title": "Charity Management System",
+      "description": "A PHP and MySQL based charity management system with login authentication, donation tracking, dashboard features, and secure database operations.",
+      "tags": ["PHP", "MySQL", "Security", "CRUD"],
+      "github": "#",
+      "live": null,
+      "featured": false
+    }
+  ],
+
+  "timeline": [
+    {
+      "year": "2024 – Present",
+      "title": "BSc Cybersecurity — Year 2",
+      "org": "University of Wolverhampton / Herald College Kathmandu",
+      "type": "education"
+    },
+
+    {
+      "year": "2025 – Present",
+      "title": "Cybersecurity Practical Labs",
+      "org": "Kali Linux, Wireshark, Cisco Packet Tracer",
+      "type": "cert"
+    },
+
+    {
+      "year": "2024",
+      "title": "Web Development Coursework",
+      "org": "PHP, MySQL, JavaScript",
+      "type": "education"
+    },
+
+    {
+      "year": "2024",
+      "title": "Networking & Security Practice",
+      "org": "Network configuration, packet analysis, and secure systems",
+      "type": "cert"
+    }
+  ],
+
+  "marquee": [
+    "Kali Linux",
+    "Wireshark",
+    "Cisco Packet Tracer",
+    "Nmap",
+    "PHP",
+    "MySQL",
+    "Python",
+    "JavaScript",
+    "React",
+    "GitHub Actions",
+    "Cybersecurity",
+    "Network Security",
+    "Ethical Hacking",
+    "Linux"
+  ]
+}
